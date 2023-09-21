@@ -13,9 +13,6 @@ def merge_snippets(snippets1, snippets2):
         if key not in merged:
             merged[key] = value
         elif merged[key] != value:
-            # If the same key exists but with different content, you can handle
-            # the conflict as you like. Here, I simply overwrite with the second file's version.
-            # Alternatively, you might want to rename or skip, based on your requirements.
             merged[key] = value
 
     return merged
