@@ -12,7 +12,7 @@ This guide will walk you through how to install snippets in VSCode and how to me
 - In the Command Palette, type `Snippets` and select `Configure User Snippets` from the dropdown menu.
 
 ### 3. Select LUA Snippets
-- From the list of available languages and options, choose `LUA`.
+- From the list of available languages and options, choose `LUA` or if you're adding a different language. Select that language.
 
 ### 4. Add Your Snippets
 - Copy and paste your desired snippets into the opened editor.
