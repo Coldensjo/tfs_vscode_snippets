@@ -1,4 +1,3 @@
-```
 # VSCode LUA Snippets Installation & Merging Guide
 
 This guide will walk you through how to install LUA snippets in VSCode and how to merge different snippets using a Python script.
