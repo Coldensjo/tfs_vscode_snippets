@@ -26,7 +26,7 @@ This guide will walk you through how to install snippets in VSCode and how to me
 ### 2. Clone the Repository
 `git clone https://github.com/Coldensjo/tfs_vscode_snippets.git`
 
-### 3. Add Your LUA Snippets
+### 3. Add Your Snippets
 - Copy your LUA or other snippets file into the cloned folder.
 
 ### 4. Rename the Snippets Files
