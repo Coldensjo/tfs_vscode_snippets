@@ -12,5 +12,5 @@ Provides autocomplete for enums, methods, functions and everything else for TheF
 2. Clone the repository using **git clone https://github.com/Coldensjo/tfs_vscode_luasnippet.git**
 3. Copy and paste your own lua snippet into the same folder.
 4. Rename them to **lua.json** and **lua2.json**.
-5. Run using "**python merge.py**".
+5. Run using **python merge.py**.
 6. Feel free to pull request the output
