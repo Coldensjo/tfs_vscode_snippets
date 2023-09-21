@@ -27,10 +27,10 @@ This guide will walk you through how to install snippets in VSCode and how to me
 `git clone https://github.com/Coldensjo/tfs_vscode_snippets.git`
 
 ### 3. Add Your LUA Snippets
-- Copy your LUA snippets file into the cloned folder.
+- Copy your LUA or other snippets file into the cloned folder.
 
 ### 4. Rename the Snippets Files
-- Rename your snippets files to `lua.json` and `lua2.json`.
+- Rename your snippets files to `lua.json` and `lua2.json`, you can change this in the script if you want.
 
 ### 5. Run the Merging Script
 `python merge.py`
