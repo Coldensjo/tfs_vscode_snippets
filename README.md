@@ -24,7 +24,7 @@ This guide will walk you through how to install LUA snippets in VSCode and how t
 - Depending on your OS, use `cmd`, `bash`, or `powershell`.
 
 ### 2. Clone the Repository
-`git clone https://github.com/Coldensjo/tfs_vscode_snippet.git`
+`git clone https://github.com/Coldensjo/tfs_vscode_snippets.git`
 
 ### 3. Add Your LUA Snippets
 - Copy your LUA snippets file into the cloned folder.
