@@ -7731,7 +7731,12 @@
     "Player.sendExtendedOpCode": {
         "prefix": "Player.sendExtendedOpCode",
         "body": [
-            "player.isUsingOtClient(${1:self}, ${2:opCode}, ${3:buffer})$4"
+            "player:sendExtendedOpcode(${1:opCode}, json.encode({",
+            "\taction = \"${2:action}\",",
+            "\tdata = {",
+            "\t\t${3:data}",
+            "\t}",
+            "}))$0"
         ]
     },
     "Player:addItemEx\tflags": {
